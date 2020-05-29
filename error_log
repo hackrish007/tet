@@ -1,0 +1,20 @@
+[12-Oct-2019 11:11:31 UTC] PHP Warning:  require_once(/home/moogli/santtndas.moogli.in/system/core/CodeIgniter.php): failed to open stream: Permission denied in /home/moogli/santtndas.moogli.in/index.php on line 315
+[12-Oct-2019 11:11:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/moogli/santtndas.moogli.in/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moogli/santtndas.moogli.in/index.php on line 315
+[12-Oct-2019 11:11:35 UTC] PHP Warning:  require_once(/home/moogli/santtndas.moogli.in/system/core/CodeIgniter.php): failed to open stream: Permission denied in /home/moogli/santtndas.moogli.in/index.php on line 315
+[12-Oct-2019 11:11:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/moogli/santtndas.moogli.in/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/moogli/santtndas.moogli.in/index.php on line 315
+[17-Oct-2019 19:15:16 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/9zjuxm6e.php on line 2
+[21-Oct-2019 17:31:31 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/neq73gzo.php on line 2
+[29-Oct-2019 19:13:14 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/kijfgm39.php on line 2
+[01-Nov-2019 09:10:26 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/ijwd8349.php on line 2
+[01-Nov-2019 09:10:28 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/cqy39rug.php on line 2
+[01-Nov-2019 09:10:33 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/9zjuxm6e.php on line 2
+[01-Nov-2019 09:10:35 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/kijfgm39.php on line 2
+[01-Nov-2019 09:10:55 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/neq73gzo.php on line 2
+[01-Nov-2019 09:10:56 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/ijwd8349.php on line 2
+[01-Nov-2019 09:11:06 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/ijwd8349.php on line 2
+[01-Nov-2019 09:12:10 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/9zjuxm6e.php on line 2
+[01-Nov-2019 09:12:14 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/kijfgm39.php on line 2
+[05-Nov-2019 20:03:54 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/oqx0ye2w.php on line 2
+[07-Nov-2019 10:24:46 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/kijfgm39.php on line 2
+[09-Nov-2019 19:29:29 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/u0qip6q1.php on line 2
+[13-Nov-2019 18:37:32 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/moogli/santtndas.moogli.in/expsyu60.php on line 2
